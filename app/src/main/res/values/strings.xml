@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">27_6_23_NESTED_RECYCLEVIEW</string>
+    <string name="order_info">Order Info</string>
+    <string name="total_products">Total Products</string>
+    <string name="subtotal">SubTotal</string>
+    <string name="_43_37">43.37</string>
+    <string name="delivery_free">Delivery Free</string>
+    <string name="service_tax_6">Service Tax 6%</string>
+    <string name="total">Total</string>
+    <string name="_0_00">0.00</string>
+    <string name="_2_10">2.10</string>
+    <string name="chiles_secos">Chiles Secos</string>
+    <string name="_7_39">7.39</string>
+    <string name="maruchan_chicken_instant_linch">Maruchan Chicken Instant Linch</string>
+    <string name="_75_0">75.0</string>
+</resources>
